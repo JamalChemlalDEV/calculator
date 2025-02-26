@@ -1,4 +1,4 @@
-# Calculator App
+# Calculator
 
 The Calculator App is a simple and responsive web application built with React. It allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division. The app features an intuitive user interface and includes a clear button to reset the input.
 
